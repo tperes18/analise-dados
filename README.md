@@ -14,4 +14,4 @@
 | [Atividade 04 - Comparação Populacional](https://classroom.google.com/c/ODQzNTk4ODcxNTU1/a/ODg0NTQyMTIyNTM1/details) | ❌ |
 | [Atividade 05 - Gráficos](https://classroom.google.com/c/ODQzNTk4ODcxNTU1/a/ODg1MTE3ODgzMjU4/details) | ❌ |
 | [Atividade 06 - IDH](http://classroom.google.com/c/ODQzNTk4ODcxNTU1/a/ODg2NTE4NTcxNTg5/details) | ❌ |
-| Atividade 07 - Introdução ao streamlit | ✅ |
+| [Atividade 07 - Introdução ao streamlit](https://classroom.google.com/c/ODQzNTk4ODcxNTU1/a/ODg5MzQ3Nzk2NzU3/details) | ❌ |
